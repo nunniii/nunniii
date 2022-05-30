@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**nunitoo/nunitoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+- Hi, there :3
+- I like code =)
+- focuses C/C++ & Rust
+- I like differential math, functional programming and fast websites
+- recently I've been dealing a lot with back end development and database administration
+# thanks for reading... <3
+```
+```bash
+~ > git config user.email
 
-Here are some ideas to get you started:
+mateusnss@protonmail.ch        <Swiss TLD>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+<a href="mailto:mateusnss@protonmail.ch"><img src="https://img.shields.io/badge/mateusnss@proton.me-000000.svg?style=flat-square&logo=protonmail&logoColor=white" height="21" ></a> <a href="https://ko-fi.com/mateusnunes"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-000000.svg?style=flat-square&logo=ko-fi&logoColor=fff" height="21" ></a>
+
+<div>
+  <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" width="250" align="right"/>
+</div>
