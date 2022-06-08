@@ -9,6 +9,7 @@
 ### I'm Nunito
 
 * I like code =)
+* astronomy lover
 * focuses C/C++ & Rust
 * I like differential math, functional programming and fast websites
 * recently I've been dealing a lot with back end development and database administration
