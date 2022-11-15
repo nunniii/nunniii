@@ -8,9 +8,10 @@
 
 ### I'm Nunito
 
-* I like code =)
-* lover of astronomy research and dedicate my life to medicine
-* focuses Rust & JavaScript/TypeScript
-* I like differential math, functional programming and fast websites
-* recently I've been dealing a lot with backend development and deno deployments, currently looking for security and speed proposals
-* thanks for reading... =))
+```
+• I like code =)
+• lover of astronomy research and dedicate my life to medicine 🩺
+• focuses Rust & JavaScript/TypeScript 🦀
+• I like differential math, functional programming and fast websites
+• thanks for reading... =))
+```
