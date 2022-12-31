@@ -8,6 +8,7 @@
 • thanks for reading... =))
 ```
 
+Wanna talk about something? I'm smoking probably but you can DM on twitter =)
 
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@nunitoo_&color=1DA1F2)](https://twitter.com/nunitoo_)
 [![mail](https://img.shields.io/static/v1?label=mail&message=mateusnss@proton.me&color=372580)](mailto:mateusnss@proton.me)
