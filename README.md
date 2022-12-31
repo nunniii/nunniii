@@ -8,6 +8,11 @@
 • thanks for reading... =))
 ```
 
+
+I am the sky and sea
+I am the sky and end
+🪐 🌟 
+
 Wanna talk about something? I'm smoking probably but you can DM on twitter =)
 
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@nunitoo_&color=1DA1F2)](https://twitter.com/nunitoo_)
