@@ -2,7 +2,6 @@
 
 ```
 • I like code =)
-• I'm an open source software engineer 🖥️ by hobby and i save lives for love. 🩺
 • focuses Rust & JavaScript/TypeScript 🦀
 • I like differential math, functional programming and fast websites
 • thanks for reading... =))
