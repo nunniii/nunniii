@@ -18,6 +18,13 @@
 
 
 
+
+<a href="https://discord.com/users/760144171075371009">
+  <img src="https://lanyard-profile-readme.vercel.app/api/760144171075371009?bg=00000000&hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." />
+</a>
+
+<!--
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="40"/>
 <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" alt="elixir" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" />
@@ -30,8 +37,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebAssembly.svg" alt="" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" />
-
-<a href="https://discord.com/users/760144171075371009">
-  <img src="https://lanyard-profile-readme.vercel.app/api/760144171075371009?bg=00000000&hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." />
-</a>
-
+-->
