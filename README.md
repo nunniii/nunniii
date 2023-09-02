@@ -4,8 +4,7 @@
 
 + I'm Mateus Nunes
 + I like code =) 
-• focuses Rust & JavaScript/TypeScript 🦀
-• Web -> WA, back end; mobile;
+• focuses Rust, WA & TypeScript 🦀
 • I like differential math, functional programming and fast websites 🌐
 # thanks for reading ... <3
 ```
