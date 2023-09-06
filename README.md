@@ -15,6 +15,9 @@
 
 
 
+<div style="aling-right">
+  <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" width="250" align="right"/>
+</div>
 
 
 <a href="https://discord.com/users/760144171075371009">
@@ -36,3 +39,5 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebAssembly.svg" alt="" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" />
 -->
+
+
