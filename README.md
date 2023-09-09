@@ -1,28 +1,40 @@
 ### Hi there 👋
 
+
+
 ```diff
 
 + I'm Mateus Nunes
 + I like code =) 
 • focuses Rust, WA & TypeScript 🦀
-• I like differential math, functional programming and fast websites 🌐
+• I like diff math, func programming, fast websites, and nyan cat gifs 🌐
 # thanks for reading ... <3
 ```
+
 
 
 [![mail](https://img.shields.io/static/v1?label=mail&message=mateusnss@proton.me&color=372580)](mailto:mateusnss@proton.me)  
 
 
 
-
 <div style="aling-right">
   <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" width="250" align="right"/>
 </div>
+<div >
+  <img src="https://github.com/nunniii/nunniii/assets/69170710/2e6ad857-e20a-4168-9779-f20c80fa9d1d"/>
+  
+</div>
+
+
+
 
 
 <a href="https://discord.com/users/760144171075371009">
   <img src="https://lanyard-profile-readme.vercel.app/api/760144171075371009?bg=00000000&hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." />
 </a>
+
+
+
 
 <!--
 
