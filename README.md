@@ -6,8 +6,8 @@
 
 + I'm Mateus Nunes
 + I like code =) 
-• focuses Rust, WA & TypeScript 🦀
-• I like diff math, func programming, fast websites, and nyan cat gifs 🌐
+• focuses Rust, WA, some Java & C/C++ 🦀
+• I like diff math, func programming and fast websites 🌐
 # thanks for reading ... <3
 ```
 
@@ -19,10 +19,6 @@
 
 <div style="aling-right">
   <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" width="250" align="right"/>
-</div>
-<div >
-  <img src="https://github.com/nunniii/nunniii/assets/69170710/2e6ad857-e20a-4168-9779-f20c80fa9d1d"/>
-  
 </div>
 
 
