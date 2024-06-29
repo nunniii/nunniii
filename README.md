@@ -6,7 +6,7 @@
 
 + I'm Mateus Nunes
 + I like code =) 
-• focuses Rust, WA, some Java & C/C++ 🦀
+• student of light
 • I like diff math, func programming and fast websites 🌐
 # thanks for reading ... <3
 ```
