@@ -11,7 +11,9 @@
 # thanks for reading ... <3
 ```
 
+If you're into reading, feel free to check out my [blog](https://nunito-blog.vercel.app/)
 
+#### Getting touch:
 
 [![mail](https://img.shields.io/static/v1?label=mail&message=mateusnss@proton.me&color=372580)](mailto:mateusnss@proton.me)  
 
