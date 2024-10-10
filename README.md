@@ -33,9 +33,14 @@ If you're into reading, feel free to check out my [blog](https://nunito-blog.ver
 
 
 
-
 <!--
 
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nunniii&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunniii&show_icons=true&theme=radical)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="40"/>
 <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" alt="elixir" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" />
