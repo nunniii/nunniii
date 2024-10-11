@@ -11,7 +11,15 @@
 # thanks for reading ... <3
 ```
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nunniii&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+</div>
+
+
 If you're into reading, feel free to check out my [blog](https://nunito-blog.vercel.app/)
+
+
+
 
 #### Getting touch:
 
@@ -31,14 +39,14 @@ If you're into reading, feel free to check out my [blog](https://nunito-blog.ver
   <img src="https://lanyard-profile-readme.vercel.app/api/760144171075371009?bg=00000000&hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." />
 </a>
 
+</br></br></br></br>
+
 
 
 <!--
 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nunniii&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
-</div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunniii&show_icons=true&theme=radical)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="40"/>
