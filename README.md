@@ -11,13 +11,14 @@
 # thanks for reading ... <3
 ```
 
+
+
+
+
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nunniii&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
-
-
-If you're into reading, feel free to check out my [blog](https://nunito-blog.vercel.app/)
-
 
 
 
@@ -26,6 +27,9 @@ If you're into reading, feel free to check out my [blog](https://nunito-blog.ver
 [![mail](https://img.shields.io/static/v1?label=mail&message=mateusnss@proton.me&color=372580)](mailto:mateusnss@proton.me)  
 
 
+```
+  mateusnss@proton.me
+```
 
 <div style="aling-right">
   <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" width="250" align="right"/>
