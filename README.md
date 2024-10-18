@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<div >
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhkdDJkaW5raGJ2ZzVhNmtheWEzbTZvNzk5Y3NqMzBvZ2RudXN2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXibbAa7ysN9K/giphy.webp" width="450" />
+  <div>
+   uwu
+  </div>
+</div>
+
 
 
 ```diff
@@ -12,7 +19,7 @@
 ```
 
 
-
+<br/><br/><br/><br/>
 
 
 
@@ -34,6 +41,9 @@
 <div style="aling-right">
   <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" width="250" align="right"/>
 </div>
+
+
+
 
 
 
