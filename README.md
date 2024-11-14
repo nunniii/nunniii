@@ -24,11 +24,6 @@
 <br/>
 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nunniii&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
-</div>
-
-
 
 #### Getting touch:
 
