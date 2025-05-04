@@ -34,6 +34,7 @@
   mateusnss@proton.me
 ```
 
+<!--
 <div style="aling-right">
   <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" width="250" align="right"/>
 </div>
@@ -53,7 +54,6 @@
 
 
 
-<!--
 
 
 
